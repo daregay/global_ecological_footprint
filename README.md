@@ -63,6 +63,19 @@ The heat map below represents the biocapacity of countries in my dataset.
 ![image of total reginal footprint ](images/3 _regional_figures.png)
 
 ####Observations 
+![map heat of biocapacity](images/newbiocapheatmap.html)
+
+
+
+![map heat of ecological footprint](images/ecolofp.html)
+
+
+![map heat of deficit or reserve](images/newbiodef_res.html)
+
+![map heat of bio_res_or def](images/#neg14to24_folium_chloropleth_bio_def_reserve.html)
+
+
+![map heat of 
 
 - One reason Latine America has the greatest biocapacity of all the regions is due to it's large forest land. 
 
