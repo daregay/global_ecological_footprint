@@ -9,7 +9,7 @@ Biocapacity represents an ecosystems capacity to provide natural resouces and ab
 - A region is considered ecologicaly decifit when the footprint exceeds it's biocapacity
 - Its considered to have ecological reserve when it's biocapacity exceeds its footprint 
 
-![Ecological Footprint][/Users/danait/documents/galvanize/capstone/global_ecological_footprint/images/footprint-labeled-crop.jpg ]
+![Ecological Footprint][images/footprint-labeled-crop.jpg ]
 
 
 
