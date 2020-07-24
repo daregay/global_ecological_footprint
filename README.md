@@ -17,7 +17,7 @@ Ecological Footprint measures the ecological resources that a given population u
 ### Motivating Questions 
 
 * Motivating Questions
-* Which countries/regions are ecologically deficit?
+* Which countries/regions run an ecological deficit?
 * Which countries/regions have ecological reserves?
 * Is population growth correlated to a higher ecological footprint?
 * How about the relationship between GDP per capita and the countries ecological footprint?
@@ -82,8 +82,6 @@ Many countries have reserves that range from 0 to 5. Followed by a number of cou
 * It seems that Latin America has the highest number of countries whose Biocapacity is greater than its population’s Ecological Footprint. Let's look in- depth at each of the categorical measurements by region. 
 
 
-
-
 ![graph regional biocapacity](images/"region_biocapacity".png)
 
 This graph sums the biocapacity in each of the productive surface areas per region. Since this is per region the three outlier countries are included.
@@ -97,6 +95,7 @@ This graph sums the biocapacity in each of the productive surface areas per regi
 
 ![graph of reg def res](images/region_biocap_vs_ecology_demand.png)
 - 4 regions are below zero. 
+- Middle East/ Central Asia is the most ecologically deficit region. 
 - Most of the countries in the regions of Middle East/Central Asia, European Union, Northern/Easern Europe,European Union, Asian-Pacific have exceeded the region’s biocapacity and are ecologically deficit.
 
 Latin America's high Biocapacity reserve or Biological capacity doesn't necessarily mean that it has the highest productive surface area out of all the regions. It means it has the highest productive surface area per person. So does population increase lead to an increase in Ecological Footprint? Is there another factor that yields a stronger correlation?
@@ -110,10 +109,6 @@ Since most of the countries have a population of less than 150 million, the grap
 * For GDP however, there is a trend forming. The Ecological Footprint gradually increases as the GDP increases. The subplot also clearly reflects this positive correlation.
 
 
-
-
-
-
 ![def_or_res_vs_pop_gdp](images/test2.png)
 
 A very small trend is observed for the Biocapacity deficit or reserve as population increases. It seems countries that have larger than 50 million people are mostly in the Biocapacity deficit side.
@@ -125,11 +120,26 @@ For the second graph a stronger correlation is reflected. There is a visible tre
 
 
 ## Conclusion 
-A table of top ten biocapacity deficit countries 
+Several things were answerd from this analysis:
+
+* most of the countries that have ecological reserve are located in Latin America. 
+
+* Middle East/ Central Asia is the most ecologically deficit region. 
+
+* The European Union has the biggest Ecological Footprint.
+
+* When comparing the Ecological Footprint of population increase vs. GDP increase by countries, the results showed countries start to have higher ecological footprint as their GDP increases. There is a signficantly stronger relationship between Ecological Footprint and GDP, than the population. 
+
+If you are curious the following tables contain the top ten countries that have ecological deficit and reserve. 
+
+A table of top ten ecologically deficit countries 
 ![top deficit countries](images/topten_def.png)
 
-A table of top ten biocapacity reserve countries
+
+A table of top ten countries with ecological reserve 
 ![top deficit countries](images/topten_res.png)
+
+
 
 
 
