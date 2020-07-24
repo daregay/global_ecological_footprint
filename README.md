@@ -43,7 +43,7 @@ I found the countries.csv data on Kaggle. The dataset was from 2016 and was upda
 ## Data Sources
 * https://www.kaggle.com/footprintnetwork/ecological-footprint
 
-# https://www.kaggle.com/ktochylin/world-countries
+* https://www.kaggle.com/ktochylin/world-countries
 
 
 sources used to fill NaN values
@@ -63,7 +63,8 @@ First I want to look at a country's Biocapacity level per person. This map shows
   
 ![map heat of biocapacity](images/Biocap.png)
 
-Many of the countries have a really low Biocapacity level, they fall within the ranges of 0 to 4 global hectors. The rest have ranges of 4 to 18. Gabon's Biocapacity is between 22 to 26. The three outlier country's Biocapacity is ranged from 66- 111 gha.
+Many of the countries have a really low Biocapacity level, they fall within the ranges of 0 to 4 global hectors. The rest have ranges of 4 to 18. 
+* The three outlier country's Biocapacity is ranged from 66- 111 gha.
 
 
 
@@ -82,7 +83,17 @@ Map of countries that are ecologically deficits or have reserves
 
 Many countries have reserves that range from 0 to 5. Followed by a number of countries who are experiencing a biocapacity deficit that ranges from -1 to -8.
 
-* It seems that Latin America has the highest number of countries whose Biocapacity is greater than its population’s Ecological Footprint. Let's look in- depth at each of the categorical measurements by region. 
+The following tables help get a better view of the top countries who are ecologically deficit or have reserves. 
+
+A table of top ten ecologically deficit countries 
+![top deficit countries](images/topten_def.png)
+
+
+A table of top ten countries with ecological reserve 
+![top deficit countries](images/topten_res.png)
+
+
+* Considering the plots above it seems that Latin America has the highest number of countries whose Biocapacity is greater than its population’s Ecological Footprint. Let's look in- depth at each of the categorical measurements by region. 
 
 
 ![graph regional biocapacity](images/"region_biocapacity".png)
@@ -133,14 +144,7 @@ Several things were answerd from this analysis:
 
 * When comparing the Ecological Footprint of population increase vs. GDP increase by countries, the results showed countries start to have higher ecological footprint as their GDP increases. There is a signficantly stronger relationship between Ecological Footprint and GDP, than the population. 
 
-If you are curious the following tables contain the top ten countries that have ecological deficit and reserve. 
 
-A table of top ten ecologically deficit countries 
-![top deficit countries](images/topten_def.png)
-
-
-A table of top ten countries with ecological reserve 
-![top deficit countries](images/topten_res.png)
 
 
 
