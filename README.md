@@ -16,7 +16,7 @@ Ecological Footprint measures the ecological resources that a given population u
 
 ### Motivating Questions 
 
-* Motivating Questions
+
 * Which countries/regions run an ecological deficit?
 * Which countries/regions have ecological reserves?
 * Is population growth correlated to a higher ecological footprint?
@@ -27,7 +27,7 @@ Ecological Footprint measures the ecological resources that a given population u
 
 ## Dataset 
 
-I found the countries.csv data from Kaggle. The dataset was from 2016 and was updated 3 years ago. It was originally provided by the Global Footprint Network.
+I found the countries.csv data on Kaggle. The dataset was from 2016 and was updated 3 years ago. It was originally provided by the Global Footprint Network.
 
 * Sums five categories to track a country's ecological footprint: cropland footprint, grazing footprint, fish footprint, built-up (or urban) land, and carbon demand on land.
 * sums five categories to track a country's biocapacity: cropland land, grazing land, fishing water, forest area, and urban land.
@@ -38,10 +38,13 @@ I found the countries.csv data from Kaggle. The dataset was from 2016 and was up
 * filling null values and conversion of column datatype was needed.
 * I also deleted some countries with a lot of missing data. The final cleaned dataset contained 171 countries. 
 
-* I also obtained another world.countries dataset from Kaggle to create the heatmaps using geographical coardinates. 
+* I also obtained another world.countries dataset from Kaggle to create heatmaps using geographical coardinates. 
 
-## Data Source 
+## Data Sources
 * https://www.kaggle.com/footprintnetwork/ecological-footprint
+
+# https://www.kaggle.com/ktochylin/world-countries
+
 
 sources used to fill NaN values
 * https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita#References
