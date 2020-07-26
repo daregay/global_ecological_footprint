@@ -162,7 +162,7 @@ def heat_map():
     fill_opacity=0.7,
     line_opacity=0.2,
     legend_name='Biocapacity Deficit or Reserve'
-    folium.LayerControl().add_to(m)
+folium.LayerControl().add_to(m)
     return None
 
 def subset_dataframe(df, columns):
